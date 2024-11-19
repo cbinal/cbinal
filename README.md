@@ -1,6 +1,6 @@
 # 👨‍💻 Software Developer Portfolio
 
-![Header](https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile)
+![Header](https://kayrem.com/public/img/main_bgs/hero_bg_07.jpeg)
 
 Hello! I'm a **Software Developer** passionate about building scalable applications and dynamic user interfaces. I specialize in **Full Stack Development** and have experience working with a variety of tools and technologies.
 
