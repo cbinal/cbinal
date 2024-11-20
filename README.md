@@ -35,9 +35,9 @@ Hello! I'm a **Software Developer** passionate about building scalable applicati
 ---
 
 ## 🔗 **Connect with Me**
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourusername)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/cbinal)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/cbinal)
+[![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/cbinal/)
 
 ---
 
@@ -48,7 +48,7 @@ Hello! I'm a **Software Developer** passionate about building scalable applicati
 ---
 
 ## 🖼️ **Featured Projects**
-- **[Project Name](#):** Short description of the project.  
+- **[mng_kargo_api](#):** Python ile MNG Kargo API Kullanımı
   ![Preview](https://via.placeholder.com/300x150?text=Project+Preview)
 
 - **[Another Project](#):** Short description of another project.  
