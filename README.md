@@ -48,11 +48,7 @@ Hello! I'm a **Software Developer** passionate about building scalable applicati
 ---
 
 ## 🖼️ **Featured Projects**
-- **[mng_kargo_api](#):** Python ile MNG Kargo API Kullanımı.
-  ![Preview](https://via.placeholder.com/300x150?text=Project+Preview)
-
-- **[Another Project](#):** Short description of another project.  
-  ![Preview](https://via.placeholder.com/300x150?text=Another+Project+Preview)
+- **[mng_kargo_api](https://github.com/cbinal/mng_kargo_api):** Python ile MNG Kargo API Kullanımı.  
 
 ---
 
