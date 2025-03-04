@@ -2,7 +2,7 @@
 
 ![Header](https://kayrem.com/public/img/github_profile.jpg)
 
-Hello! I'm a **Software Developer** passionate about building scalable applications and dynamic user interfaces. I specialize in **Full Stack Development** and have experience working with a variety of tools and technologies.
+Hello! I'm a **Software Developer** passionate about building scalable applications and dynamic user interfaces. I specialize in **Full Stack Development** and have experience working with a variety of tools and technologies. **[for more information](https://kayrem.com/)
 
 ---
 
